@@ -4,38 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f03e750-1238-4821-ad50-3dc12bd04954" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operadores--Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversionDeTipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringArreglo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringConcatenacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringInmutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EjemploStringValidar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginConOperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadorInstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadorInstanceOfTiposGenericos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadorTernario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadorTernarioNumeroMayor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresAsignacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresIncremetales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresRelacionales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresUnarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrecedenciaOperadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestRendimientoConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoDePrimitivos/PrimitivoBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoDePrimitivos/PrimitivosCaracteres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoDePrimitivos/PrimitivosEnteros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoDePrimitivos/PrimitivosFloat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoDePrimitivos/SistemasNumericos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UsoDePrimitivos/SistemasNumericosEntradaScanner.java" afterDir="false" />
+    <list default="true" id="8f03e750-1238-4821-ad50-3dc12bd04954" name="Changes" comment="Primer Commit">
+      <change afterPath="$PROJECT_DIR$/src/EstanqueGasolina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MostrarOrdenadosDosNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObtenerNombreMasLargo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,22 +38,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/rsacr/OneDrive/Escritorio/Curso-de-Springboot-Hibernate-main",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LoginConOperadoresLogicos">
-    <configuration name="EjemploStringInmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploStringInmutable" />
-      <module name="Operadores--Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EjemploStringMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploStringMetodos" />
+  <component name="RunManager" selected="Application.ObtenerNombreMasLargo">
+    <configuration name="EstanqueGasolina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstanqueGasolina" />
       <module name="Operadores--Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +60,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MostrarOrdenadosDosNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MostrarOrdenadosDosNumeros" />
+      <module name="Operadores--Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObtenerNombreMasLargo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObtenerNombreMasLargo" />
+      <module name="Operadores--Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresAritmeticos" />
+      <module name="Operadores--Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObtenerNombreMasLargo" />
+        <item itemvalue="Application.EstanqueGasolina" />
+        <item itemvalue="Application.MostrarOrdenadosDosNumeros" />
+        <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.LoginConOperadoresLogicos" />
-        <item itemvalue="Application.EjemploStringMetodos" />
-        <item itemvalue="Application.EjemploStringInmutable" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678184879202</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer Commit">
+      <created>1678187596740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678187596740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +120,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OperadoresAritmeticos.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
